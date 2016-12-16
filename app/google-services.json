@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "804217954553",
+    "firebase_url": "https://simplechat-55d30.firebaseio.com",
+    "project_id": "simplechat-55d30",
+    "storage_bucket": "simplechat-55d30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804217954553:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804217954553-6muvuptnrt7502k4m106hedmuhrrhefj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmosNd0XlHoUo5caWWFmmA92obPpsIegM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804217954553-6muvuptnrt7502k4m106hedmuhrrhefj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804217954553:android:a4f5b71cd2dfb134",
+        "android_client_info": {
+          "package_name": "com.shubhank.fcm_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804217954553-6muvuptnrt7502k4m106hedmuhrrhefj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmosNd0XlHoUo5caWWFmmA92obPpsIegM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804217954553-6muvuptnrt7502k4m106hedmuhrrhefj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804217954553:android:abe03abec1cfda58",
+        "android_client_info": {
+          "package_name": "com.vinaymaneti.firebasenotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804217954553-6muvuptnrt7502k4m106hedmuhrrhefj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmosNd0XlHoUo5caWWFmmA92obPpsIegM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804217954553-6muvuptnrt7502k4m106hedmuhrrhefj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
